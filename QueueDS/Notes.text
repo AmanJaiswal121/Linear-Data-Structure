@@ -1,0 +1,23 @@
+Queue :
+-------
+-> Queue is a list where data can inserted from one end callled "Rear" and deleted from another end callled "Front".
+-> Queue follow FIFO(first in first out order).
+
+Operations of Queue :
+---------------------
+    01. Enqueue - insert an element at the end of the queue. [Rear]
+    02. Dequeue - delete an element at start of the queue. [Front]
+
+    Conditions :
+    01.    REAR = -1
+        Front = -1
+        -> Queue is empty.
+
+    02.     Rear = 0
+            Front = 0
+            -> Single element present in queue.
+
+
+
+
+
